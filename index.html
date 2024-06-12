@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <title> Space X Launches </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery-3.7.1.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>Launch Space X</h1>
+    <div id="Launch">
+        <section id="next-launch">Next Launch : </section>
+        <section id="launch-date">Launch Date : </section>
+        <section id="launch-name">Launch Name : </section>
+        <section id="launch-countdown">Launch Countdown : </section>
+    </div>
+    <br>
+    <div>
+        <h2>Launch Filter</h2>
+        <select id="launch-filter">
+            <option value="all"></option>
+            <option value="success"></option>
+            <option value="failed"></option>
+        </select>
+    </div>
+    <br>
+    <div id="launch-list">
+        <h2>Last Launch</h2>
+        <ul id="launch-items"></ul> 
+    </div>
+</body>

@@ -1,0 +1,5 @@
+Je n'ai pas pu tout faire dans le temps imparti.
+
+En effet, étant en train d'apprendre jQuery, j'ai pris du temps pour certaines fonctions et à savoir laquelle utiliser.
+Le code aurait aussi pu être aussi améliorer ou réduit avec d'autres fonctions plus appropriées.
+

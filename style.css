@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+#Launch {
+    font-size: 18px;
+}
+
+select{
+    width: 50px;
+    height: 20px;
+}
